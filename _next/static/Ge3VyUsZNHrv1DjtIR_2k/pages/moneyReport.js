@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{783:function(n,t,e){__NEXT_REGISTER_PAGE("/moneyReport",function(){return n.exports=e(784),{page:n.exports.default}})},784:function(n,t,e){"use strict";e.r(t);var o=e(2),u=(e(1),e(50)),r=e(51);t.default=function(){return Object(o.b)(u.a,null,Object(o.b)(r.d,null))}}},[[783,1,0]]]);

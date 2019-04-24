@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{516:function(n,t,e){__NEXT_REGISTER_PAGE("/assetManagement",function(){return n.exports=e(517),{page:n.exports.default}})},517:function(n,t,e){"use strict";e.r(t);var u=e(2),a=(e(1),e(50)),o=e(51);t.default=function(){return Object(u.b)(a.a,null,Object(u.b)(o.a,null))}}},[[516,1,0]]]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{787:function(n,e,t){__NEXT_REGISTER_PAGE("/priceSetting/price",function(){return n.exports=t(788),{page:n.exports.default}})},788:function(n,e,t){"use strict";t.r(e);var u=t(2),c=(t(1),t(50)),r=t(51);e.default=function(){return Object(u.b)(c.a,null,Object(u.b)(r.e,null))}}},[[787,1,0]]]);
